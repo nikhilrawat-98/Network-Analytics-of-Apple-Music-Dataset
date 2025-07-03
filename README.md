@@ -2,6 +2,7 @@
 
 This project involves performing network analytics on the **Apple Music Dataset**, utilizing various centrality measures, community detection techniques, and visualization tools to uncover meaningful patterns and insights into the network structure of music tracks and their connections. The project applies fundamental network analytics concepts to analyze the relationships between music tracks based on features like genres, artists, and popularity.
 
+Youtube Link: https://youtu.be/RqkYRa1V1Zk?si=rp__YpheIFPx3prw
 ## Project Overview
 
 - **Objective**: The primary goal of this project is to perform network analysis on the Apple Music dataset to identify key tracks and genres, detect communities within the network, and understand the influence of different music tracks using various centrality measures.
